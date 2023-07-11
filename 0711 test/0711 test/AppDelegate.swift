@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  OddEvenGame
+//  0711 test
 //
-//  Created by 황승우 on 2023/07/10.
+//  Created by 황승우 on 2023/07/11.
 //
 
 import UIKit

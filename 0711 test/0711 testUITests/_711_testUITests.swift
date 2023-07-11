@@ -1,13 +1,13 @@
 //
-//  OddEvenGameUITests.swift
-//  OddEvenGameUITests
+//  _711_testUITests.swift
+//  0711 testUITests
 //
-//  Created by 황승우 on 2023/07/10.
+//  Created by 황승우 on 2023/07/11.
 //
 
 import XCTest
 
-final class OddEvenGameUITests: XCTestCase {
+final class _711_testUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

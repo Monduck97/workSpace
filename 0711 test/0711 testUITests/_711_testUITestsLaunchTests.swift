@@ -1,13 +1,13 @@
 //
-//  OddEvenGameUITestsLaunchTests.swift
-//  OddEvenGameUITests
+//  _711_testUITestsLaunchTests.swift
+//  0711 testUITests
 //
-//  Created by 황승우 on 2023/07/10.
+//  Created by 황승우 on 2023/07/11.
 //
 
 import XCTest
 
-final class OddEvenGameUITestsLaunchTests: XCTestCase {
+final class _711_testUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
